@@ -1,4 +1,4 @@
 ./vagrant-lab/.vagrant
-./ansible-lab/control-node/.vagrant
+/home/douglas/Área de Trabalho/devops-mao-na-massa/ansible-lab/control-node/.vagrant
 ./ansible-lab/app01/.vagrant
 ./ansible-lab/db01/.vagrant
