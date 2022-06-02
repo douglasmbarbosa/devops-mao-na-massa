@@ -1,5 +1,5 @@
 #!/bin/sh
-
+echo "Início"
 sudo yum -y install epel-release 
 
 echo "Início da instalação do ansible"
